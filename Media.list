@@ -1,14 +1,14 @@
 # 123
-HOST-SUFFIX,1av.to
-HOST-KEYWORD,123av
-HOST-KEYWORD,jav
-HOST-SUFFIX,surrit.online
+DOMAIN-SUFFIX,1av.to
+DOMAIN-KEYWORD,123av
+DOMAIN-KEYWORD,jav
+DOMAIN-SUFFIX,surrit.online
 #HOST-KEYWORD,dreampulse
 #HOST-KEYWORD,trendcart23
 
 # 奥德赛
-HOST-SUFFIX,odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 
 # 终端站亚洲入口
-HOST-SUFFIX,emby.wtf
-HOST-SUFFIX,term.wtf
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,term.wtf
